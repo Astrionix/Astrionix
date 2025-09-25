@@ -1,91 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ramachandra Reddy</h1>
-<h3 align="center">Full-Stack Developer | Innovator of AI-Driven Applications</h3>
-
+<!-- Animated Banner Section (replace with your own GIF/art if desired) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=astrionix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for astrionix" />
+  <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius:16px;" alt="Artistic Banner"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ramachandra+Reddy;Full+Stack+Developer+%7C+AI+Explorer;Building+for+Mental+Wellness;Innovator+%26+Tech+Artist" alt="Animated Headline" />
 </p>
 
+<!-- Profile/Avatar Section -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=astrionix" alt="GitHub profile trophies for astrionix" />
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/980622?v=4" width="120" style="border-radius:50%;box-shadow:0 2px 12px #00C4CC55;" alt="Astrionix Avatar"/>
 </p>
 
+<h2 align="center" style="color:#00C4CC;">Welcome to My Professional Space</h2>
 <p align="center">
-  <a href="https://twitter.com/astrionix" target="blank">
-    <img src="https://img.shields.io/twitter/follow/astrionix?logo=twitter&style=for-the-badge" alt="Follow astrionix on Twitter" />
-  </a>
-</p>
-
----
-
-- 🔭 I’m currently working on **Toxinet**
-- 🌱 I’m currently learning **Django**
-- 👯 I’m looking to collaborate on **Mental wellness with human emotion.**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio3-chi-amber.vercel.app/)
-- 💬 Ask me about **Machine Learning**
-- 📫 How to reach me: [Chandu3319r@gmail.com](mailto:Chandu3319r@gmail.com)
-
----
-
-### Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/astrionix" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="astrionix Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ramachandra-reddy-7529161b1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramachandra-reddy LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### Languages and Tools
-
-<p align="left">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular logo" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C logo" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django logo" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma logo" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase logo" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter logo" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud logo" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java logo" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40"/></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka logo" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux logo" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js logo" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV logo" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas logo" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop logo" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP logo" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman logo" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch logo" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn logo" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow logo" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity3D logo" width="40" height="40"/></a>
+  <i>Crafting impactful tech solutions with creativity, code, and care.</i>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astrionix&show_icons=true&locale=en&layout=compact" alt="Top languages for astrionix" />
+<!-- Social Links with Hover Effects (works in GitHub markdown) -->
+<a href="https://portfolio3-chi-amber.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-portfolio3-chi-amber.vercel.app-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:Chandu3319r@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Chandu3319r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/ramachandra-reddy-7529161b1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/astrionix" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Astrionix-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://github.com/Astrionix" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Astrionix-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astrionix&show_icons=true&locale=en" alt="GitHub stats for astrionix" />
-</div>
+---
+
+### 🚀 Projects & Focus
+
+- **Toxinet**: Advanced toxicity detection in social platforms
+- **Mental Wellness**: Human emotion & mental health AI tools
+- **Portfolio**: All projects at [portfolio3-chi-amber.vercel.app](https://portfolio3-chi-amber.vercel.app/)
+- **Collaboration**: Open for innovative partnerships in AI, web, and wellness
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+</p>
+
+---
+
+### 🖼️ Online Art & Inspiration
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80" width="340" style="border-radius:12px;margin:8px;" alt="Online Art"/>
+  <img src="https://images.pexels.com/photos/2531234/pexels-photo-2531234.jpeg?auto=compress&fit=crop&w=400&q=80" width="340" style="border-radius:12px;margin:8px;" alt="Online Art"/>
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" width="340" style="border-radius:12px;margin:8px;" alt="Online Art"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrionix&" alt="GitHub streak stats for astrionix" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Astrionix&show_icons=true&theme=radical&hide_title=false" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrionix&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Astrionix&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
+</div>
+
+---
+
+### 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github.com/Astrionix/Astrionix/raw/main/assets/achv1.png" alt="Achievement 1" width="60"/>
+  <img src="https://github.com/Astrionix/Astrionix/raw/main/assets/achv2.png" alt="Achievement 2" width="60"/>
+  <img src="https://github.com/Astrionix/Astrionix/raw/main/assets/achv3.png" alt="Achievement 3" width="60"/>
+</p>
+<p align="center">
+  <b>Featured on:</b> <br>
+  <img src="https://img.shields.io/badge/HackerRank-Gold-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/LeetCode-Top20-orange?style=flat-square" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Astrionix/Astrionix/main/assets/octocat.png" width="120" alt="Octocat Mascot" style="margin:16px 0;" />
+  <br>
+  <b>Let's build something amazing together.</b>
 </div>
