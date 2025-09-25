@@ -1,14 +1,4 @@
-<!-- Banner GIF Section -->
-<p align="center">
-  <img src="https://i.imgur.com/5sP7G6G.gif" width="100%" style="border-radius:16px;" alt="Animated Banner GIF"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ramachandra+Reddy;Full+Stack+Developer+%7C+AI+Explorer;Building+for+Mental+Wellness;Innovator+%26+Tech+Artist" alt="Animated Headline" />
-</p>
 
-<!-- Profile/Avatar Section -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/980622?v=4" width="120" style="border-radius:50%;box-shadow:0 2px 12px #00C4CC55;" alt="Astrionix Avatar"/>
-</p>
 
 <h2 align="center" style="color:#00C4CC;">Welcome to My Professional Space</h2>
 <p align="center">
@@ -19,9 +9,6 @@
 
 <div align="center">
 <!-- Social Links with Hover Effects (works in GitHub markdown) -->
-<a href="https://portfolio3-chi-amber.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-portfolio3-chi-amber.vercel.app-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
 <a href="mailto:Chandu3319r@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Chandu3319r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -66,16 +53,6 @@
 
 ---
 
-### 🖼️ Online Art & Inspiration
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80" width="340" style="border-radius:12px;margin:8px;" alt="Online Art"/>
-  <img src="https://images.pexels.com/photos/2531234/pexels-photo-2531234.jpeg?auto=compress&fit=crop&w=400&q=80" width="340" style="border-radius:12px;margin:8px;" alt="Online Art"/>
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" width="340" style="border-radius:12px;margin:8px;" alt="Online Art"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -86,23 +63,4 @@
 
 ---
 
-### 🏆 Achievements & Highlights
-
-<p align="center">
-  <img src="https://github.com/Astrionix/Astrionix/raw/main/assets/achv1.png" alt="Achievement 1" width="60"/>
-  <img src="https://github.com/Astrionix/Astrionix/raw/main/assets/achv2.png" alt="Achievement 2" width="60"/>
-  <img src="https://github.com/Astrionix/Astrionix/raw/main/assets/achv3.png" alt="Achievement 3" width="60"/>
-</p>
-<p align="center">
-  <b>Featured on:</b> <br>
-  <img src="https://img.shields.io/badge/HackerRank-Gold-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/LeetCode-Top20-orange?style=flat-square" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Astrionix/Astrionix/main/assets/octocat.png" width="120" alt="Octocat Mascot" style="margin:16px 0;" />
-  <br>
-  <b>Let's build something amazing together.</b>
-</div>
+<h2 align="center" style="color:#00C4CC;">Let's build something amazing together.</h2>
