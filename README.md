@@ -1,6 +1,6 @@
-<!-- Animated Banner Section (replace with your own GIF/art if desired) -->
+<!-- Banner GIF Section -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80" width="100%" style="border-radius:16px;" alt="Artistic Banner"/>
+  <img src="https://i.imgur.com/5sP7G6G.gif" width="100%" style="border-radius:16px;" alt="Animated Banner GIF"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Ramachandra+Reddy;Full+Stack+Developer+%7C+AI+Explorer;Building+for+Mental+Wellness;Innovator+%26+Tech+Artist" alt="Animated Headline" />
 </p>
