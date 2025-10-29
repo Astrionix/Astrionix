@@ -29,7 +29,7 @@
 
 - **Toxinet**: Advanced toxicity detection in social platforms
 - **Mental Wellness**: Human emotion & mental health AI tools
-- **Portfolio**: All projects at [portfolio3-chi-amber.vercel.app](https://portfolio3-chi-amber.vercel.app/)
+- **Portfolio**: All projects at [portfolio3-chi-amber.vercel.app]astrionix.vercel.app/)
 - **Collaboration**: Open for innovative partnerships in AI, web, and wellness
 
 ---
