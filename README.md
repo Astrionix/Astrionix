@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687atE/giphy.gif" width="100" alt="Welcome"/>
+    <h2>👋 Welcome! I'm building the future with code</h2>
   <h1 style="color: #00D9FF; font-size: 48px; margin: 20px 0;">Hey, I'm Ramachandra Reddy</h1>
   <h3 style="color: #7C3AED; font-size: 24px; margin: 10px 0;">🚀 Full-Stack Engineer | AI/ML Enthusiast | Tech Innovator</h3>
   <p style="font-size: 16px; color: #64748B; margin: 10px 0;">
