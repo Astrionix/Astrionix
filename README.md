@@ -29,7 +29,7 @@
 ```python
 class Ramachandra:
     def __init__(self):
-        self.name = "Ramachandra Reddy"
+        self.name = "Padala L M Ramachandra Reddy"
         self.role = "Full-Stack Engineer & AI/ML Developer"
         self.location = "Bangalore, India"
         self.pronouns = "he/him"
