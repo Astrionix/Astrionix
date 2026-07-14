@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FF6B35,FF4081,FFD700&height=200&section=header&text=Padala%20Ramachandra%20Reddy&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkle" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FF6B35,FF4081,FFD700&height=200&section=header&text=Padala%20L%20M%20Ramachandra%20Reddy&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkle" width="100%" alt="Header Banner" />
 
   <!-- Animated Role Typing -->
   <p align="center">
