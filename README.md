@@ -1,11 +1,14 @@
 <div align="center">
-  
-  # 👋 Hey, I'm Padala L M Ramachandra Reddy
-  
+
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,FF6B35,FF4081,FFD700&height=200&section=header&text=Padala%20Ramachandra%20Reddy&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkle" width="100%" alt="Header Banner" />
+
+  <!-- Animated Role Typing -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Prompt+Engineer;Building+Real-World+AI+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Full-Stack+Developer;Prompt+Engineer;Building+Real-World+AI+Products" alt="Typing SVG" />
   </p>
 
+  <!-- Animated Badge Grid -->
   <p align="center">
     <a href="mailto:Padalalmrreddy@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -121,21 +124,24 @@ I am an **AI/ML and Full-Stack Engineer** (MCA, SGPA 8.9) with hands-on internsh
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Live Contributions
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
+        <!-- Animated Stats Card -->
         <img src="https://github-readme-stats.vercel.app/api?username=Astrionix&show_icons=true&theme=rose_pine&bg_color=0d0a0e&text_color=f0ece8&icon_color=FF6B35&title_color=FF6B35&border_color=2a1825" width="400" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
+        <!-- Top Languages Chart -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrionix&layout=compact&theme=rose_pine&bg_color=0d0a0e&text_color=f0ece8&title_color=FF6B35&border_color=2a1825" width="400" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrionix&theme=rose_pine&background=0d0a0e&text=f0ece8&ring=FF6B35&fire=FF4081&currStreakNum=FF6B35&currStreakLabel=f0ece8&sideNums=f0ece8&dates=f0ece8&border=2a1825" width="810" alt="GitHub Streak" />
+        <!-- Live Animated Contribution Snake -->
+        <img src="https://raw.githubusercontent.com/Astrionix/Astrionix/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
       </td>
     </tr>
   </table>
