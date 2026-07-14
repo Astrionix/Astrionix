@@ -128,9 +128,9 @@ I am an **AI/ML and Full-Stack Engineer** (MCA, SGPA 8.9) with hands-on internsh
 
 <div align="center">
   
-  [![Astrionix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astrionix&show_icons=true&theme=rose_pine)](https://github.com/Astrionix)
+  [![Astrionix's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Astrionix&show_icons=true&theme=rose_pine)](https://github.com/Astrionix)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrionix&layout=compact&theme=rose_pine)](https://github.com/Astrionix)
+  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Astrionix&layout=compact&theme=rose_pine)](https://github.com/Astrionix)
 
 </div>
 
