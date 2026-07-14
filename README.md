@@ -124,25 +124,51 @@ I am an **AI/ML and Full-Stack Engineer** (MCA, SGPA 8.9) with hands-on internsh
 
 ---
 
-### 📊 GitHub Stats & Live Contributions
+### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Animated Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Astrionix&show_icons=true&theme=rose_pine&bg_color=0d0a0e&text_color=f0ece8&icon_color=FF6B35&title_color=FF6B35&border_color=2a1825" width="400" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Top Languages Chart -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrionix&layout=compact&theme=rose_pine&bg_color=0d0a0e&text_color=f0ece8&title_color=FF6B35&border_color=2a1825" width="400" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Live Animated Contribution Snake -->
-        <img src="https://raw.githubusercontent.com/Astrionix/Astrionix/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
-      </td>
-    </tr>
-  </table>
+  
+  [![Astrionix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astrionix&show_icons=true&theme=rose_pine)](https://github.com/Astrionix)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrionix&layout=compact&theme=rose_pine)](https://github.com/Astrionix)
+
 </div>
+
+---
+
+### 🎨 How to set up the Contribution Snake animation:
+To make the animated contribution grid snake crawl across your GitHub grid, follow these simple steps:
+1. Go to your **Astrionix/Astrionix** repository on GitHub.
+2. Create a folder named `.github/workflows` in your repository.
+3. Inside that folder, create a file named `generate-snake.yml`.
+4. Copy and paste the following action code into that file:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Push SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
