@@ -27,7 +27,7 @@
 
 ### 🚀 About Me
 
-I am an **AI/ML and Full-Stack Engineer** (MCA, SGPA 8.9) with hands-on internship experience across three companies building end-to-end ML pipelines, NLP-based content moderation systems, production-ready web applications, and user-centric UI/UX solutions. 
+I am an **AI/ML and Full-Stack Engineer** (MCA, CGPA 9.2 ) with hands-on internship experience across three companies building end-to-end ML pipelines, NLP-based content moderation systems, production-ready web applications, and user-centric UI/UX solutions. 
 
 - 🎓 **Education:** Master of Computer Applications (MCA) at **Atria Institute of Technology** (Expected May 2026)
 - 🤖 **Interests:** Generative AI, LLMs, NLP, Prompt Engineering, Computer Vision, & Full-Stack Architectures
